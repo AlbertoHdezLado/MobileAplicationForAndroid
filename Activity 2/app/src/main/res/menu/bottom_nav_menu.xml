@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bn_left"
+        android:icon="@android:drawable/ic_media_rew"
+        android:title="Left" />
+    <item
+        android:id="@+id/bn_center"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="Center" />
+    <item
+        android:id="@+id/bn_right"
+        android:icon="@android:drawable/ic_media_ff"
+        android:title="Right" />
+</menu>

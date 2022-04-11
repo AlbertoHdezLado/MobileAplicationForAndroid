@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+    <string name="edit_message">Write your own text to show</string>
+    <string name="button_send">Show</string>
+</resources>
